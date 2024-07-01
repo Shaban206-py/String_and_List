@@ -1,6 +1,9 @@
 #output will be this student1 = ['Muhammad Shaban',20,86.7,[1,2,3],1]
 
-
+#List in Python
+student1 = ['Muhammad Shaban',20,86.7,[1,2,3]]
+print(student1)
+print(student1[2])
 
 # (Clear)
 print("Original List:", student1)
